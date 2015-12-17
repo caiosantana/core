@@ -1,0 +1,21 @@
+@import url(https://fonts.googleapis.com/css?family=Orbitron:400,500);
+@import url(https://fonts.googleapis.com/css?family=Muli:300,400);
+#institutional
+{
+	margin:auto;
+	
+}
+#institutional h2
+{
+	text-align:center;
+	font-family: 'Muli', sans-serif;
+	font-weight:500;
+}
+#institutional p
+{
+	margin:auto;
+	text-align:justify;
+	font-family: 'Muli', sans-serif;
+	font-weight:400;
+	width:80%;
+}
