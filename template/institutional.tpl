@@ -9,5 +9,4 @@
 			<p>{$paragraph4}Em dezembro de 2005 conquistou o certificado na NBR ISO 9001:2000 (Sistema de Gestão da Qualidade SGQ) que garante a melhoria contínua de seus processos e foi recertificada na NBR ISO 9001:2008. Com a manutenção do SGQ obteve, em junho de 2010, o certificado SGQ-TEC (programa de qualificação e certificação de empresas de tecnologia da informação). Em março de 2008, foi aprovada como uma empresa qualificada no desenvolvimento de software, pelo Programa Nacional de Apoio Gestão Administrativa e Fiscal dos Municípios Brasileiros PNAFM. Em 2012 foi certificada no MPS.Br (Melhoria de Processos do Software Brasileiro) no nível G e atualmente está buscando a certificação no nível F.</p>
 			<br>
 			<p>{$paragraph5}A nossa atuação socioambiental é realizada por meio de doações periódicas (em espécie ou material) a entidades carentes e a escolas e nossa empresa é considerada uma empresa de produção limpa, pois não poluímos e nem geramos impactos ambientais, ou seja, nos desenvolvemos ajudando a nossa comunidade a crescer e mantemos o nosso compromisso de preservação do meio ambiente – da natureza.</p>
-			
 		</div>
